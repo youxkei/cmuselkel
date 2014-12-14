@@ -5,6 +5,6 @@
 	"authors": ["youkei"],
 	"dependencies": {
         "derelict-sdl2": "==1.2.6",
-        "derelict-gl3": "==1.0.6"
+        "derelict-gl3": "==1.0.10"
 	}
 }
